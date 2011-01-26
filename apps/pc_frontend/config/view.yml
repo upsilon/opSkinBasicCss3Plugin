@@ -1,2 +1,2 @@
 default:
-  stylesheets:    [/opSkinBasicPlugin/css/main.css]
+  stylesheets:    [/opSkinBasicCss3Plugin/css/main.css]
