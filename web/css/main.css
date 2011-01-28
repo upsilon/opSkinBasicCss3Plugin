@@ -316,7 +316,7 @@ pre {
 #Header {
   background: linear-gradient(#265c82, #092f56 80px);
   background: -moz-linear-gradient(#265c82, #092f56 80px);
-  background: -webkit-gradient(linear, left top, left bottom, from(#265c82), to(#092f56));
+  background: -webkit-linear-gradient(#265c82, #092f56 80px);
   overflow: hidden;
 }
 
@@ -476,7 +476,7 @@ pre {
 #Contents {
   background: linear-gradient(#c6e2e5, #ffffff 168px);
   background: -moz-linear-gradient(#c6e2e5, #ffffff 168px);
-  background: -webkit-gradient(linear, left top, left bottom, from(#c6e2e5), to(#ffffff));
+  background: -webkit-linear-gradient(#c6e2e5, #ffffff 168px);
 }
 
 /*----------------------------------------------
