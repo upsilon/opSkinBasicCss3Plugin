@@ -474,9 +474,9 @@ pre {
  * Contents
  *--------------------------------------------*/
 #Contents {
-  background: linear-gradient(#c6e2e5, #ffffff 168px);
-  background: -moz-linear-gradient(#c6e2e5, #ffffff 168px);
-  background: -webkit-linear-gradient(#c6e2e5, #ffffff 168px);
+  background: linear-gradient(rgba(198,226,229, 1), rgba(198,226,229, 0) 168px);
+  background: -moz-linear-gradient(rgba(198,226,229, 1), rgba(198,226,229, 0) 168px);
+  background: -webkit-linear-gradient(rgba(198,226,229, 1), rgba(198,226,229, 0) 168px);
 }
 
 /*----------------------------------------------
