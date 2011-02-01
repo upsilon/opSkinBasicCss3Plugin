@@ -143,7 +143,9 @@ select {
 
 .input_submit {
   border: 1px solid #888888;
-  background: #dadce6 url(../images/bg_button.gif) repeat-x scroll 50% 0;
+  background: linear-gradient(#ffffff, #fbfbfb 55%, #efefef 55%, #ffffff);
+  background: -moz-linear-gradient(#ffffff, #fbfbfb 55%, #efefef 55%, #ffffff);
+  background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), color-step(0.55, #fbfbfb), color-step(0.55, #efefef), to(#ffffff));
   letter-spacing: 0;
 }
 
@@ -1364,7 +1366,9 @@ div.activityBox div.box_form div.box_body span.submit input.submit {
   -webkit-border-radius: 3px;
   border-radius: 3px;
   border: 1px solid #888888;
-  background: url(../images/bg_button_a.gif);
+  background: linear-gradient(#ffffff, #fbfbfb 55%, #efefef 55%, #ffffff);
+  background: -moz-linear-gradient(#ffffff, #fbfbfb 55%, #efefef 55%, #ffffff);
+  background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), color-step(0.55, #fbfbfb), color-step(0.55, #efefef), to(#ffffff));
   font-weight: bold;
   font-size: 14px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
